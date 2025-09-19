@@ -9,12 +9,21 @@ Dashboard
 Master
  Bank
  Saham Indo Broker
+ Obligasi Indo Broker
  Forex Broker
  Crypto Wallet
  Crypto Exchange
  Crypto Dex
  
 Instrumen Saham Indo
+ Dashboard
+ Daftar
+
+Instrumen Obligasi Indo
+ Dashboard
+ Daftar
+ 
+Instrumen Property Indo
  Dashboard
  Daftar
 
@@ -41,6 +50,18 @@ Saham Indo Analisis
  Fundemental
  Trade
  Trade Automatic
+
+Obligasi Indo Analisis
+ Dashboard
+ Teknikal
+ Fundemental
+ Trade
+ Trade Automatic
+
+Property Indo Analisis
+ Dashboard
+ Fundemental
+ Trade
 
 Forex Analisis
  Dashboard
