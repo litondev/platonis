@@ -6,15 +6,19 @@ Fiture :
 
 Dashboard
 
-Master
- Bank
- Saham Indo Broker
- Obligasi Indo Broker
- Forex Broker
- Crypto Wallet
- Crypto Exchange
- Crypto Dex
- 
+-- MASTER
+Bank
+
+Saham Indo Broker
+Obligasi Indo Broker
+
+Forex Broker
+
+Crypto Wallet
+Crypto Exchange
+Crypto Dex
+
+-- INSTRUMEN 
 Instrumen Saham Indo
  Dashboard
  Daftar
@@ -35,7 +39,8 @@ Instumen Forex
  Dashboard
  Daftar
 
-Crypto Analisi 
+-- ANALISIS
+Crypto Analisis 
  Dashboard
  Teknikal 
  Fundemental
